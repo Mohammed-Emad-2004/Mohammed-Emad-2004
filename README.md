@@ -32,8 +32,8 @@ I built it up from kinematics to a full Simscape model with DC motors, an H-brid
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Mohammed-Emad-2004/GP255-Robot-Kinematics-Trajectory-Planning-MATLAB"><img src="assets/gp25.png" width="100%" alt="Yaskawa GP25 model"></a>
-<b><a href="https://github.com/Mohammed-Emad-2004/GP255-Robot-Kinematics-Trajectory-Planning-MATLAB">Yaskawa GP25: digital twin with motor-level joint control</a></b><br>
+<a href="https://github.com/Mohammed-Emad-2004/Yaskawa-GP25-Kinematics-Dynamics-Simscape"><img src="assets/gp25.png" width="100%" alt="Yaskawa GP25 model"></a>
+<b><a href="https://github.com/Mohammed-Emad-2004/Yaskawa-GP25-Kinematics-Dynamics-Simscape">Yaskawa GP25: digital twin with motor-level joint control</a></b><br>
 CAD → URDF → Simscape. DH kinematics, IK, a circular trajectory, and inverse dynamics, then DC motors, gearboxes and six hand-tuned PID loops. I tracked down a unit-export bug that had inflated joint torques from about 1,066 Nm to 3,135 Nm.<br>
 <sub>Onshape · Robotics System Toolbox · Simscape Multibody</sub>
 </td>
