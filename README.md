@@ -1,8 +1,8 @@
 # Mohammed Emad Said
 
 **Mechatronics engineering student at the University of Debrecen, graduating January 2027.**
-I design mechanisms in CAD, model them in MATLAB/Simulink, and write the controllers that make them move.
-Looking for engineering internships and trainee roles in Hungary: CAD / mechanical design, robotics, automation, and controls.
+I design parts and mechanisms, build the control systems that drive them, and lay out the electronics in between, with hands-on quality and production experience from automotive lines.
+Looking for engineering internships and trainee roles in Hungary (Debrecen or Budapest): mechatronics, design, controls, automation and quality.
 
 <p>
   <a href="mailto:me9115632@gmail.com"><img src="https://img.shields.io/badge/Email-me9115632%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -68,8 +68,8 @@ The MiniArm, the motor-control project and the PCB share the same Faulhaber moto
 
 ### Experience
 
-- **Customer Service Support Agent, Transcosmos Kft. (Fossil account).** Part-time. I work in SAP every day on orders, returns and case handling.
-- **Production floor, Vitesco Technologies and Thyssenkrupp.** Part-time, hands-on work on automotive production lines.
+- **Customer Support Representative, transcosmos Europe (Fossil Group: watches & jewelry).** Part-time. First point of contact between customers and the repair center: e-commerce support and technical repair cases, handled in Salesforce and SAP.
+- **Student work at Vitesco Technologies, thyssenkrupp and METRI Automotive.** Part-time on automotive production lines: technical cleanliness and quality checks, root-cause analysis, MES/SAP production data, process improvements.
 
 ### Toolkit
 
@@ -79,6 +79,6 @@ The MiniArm, the motor-control project and the PCB share the same Faulhaber moto
 | **Modelling & control** | MATLAB · Simulink · Simscape Multibody / Electrical · PID · pole placement · LQR · observers |
 | **Robotics** | DH kinematics · inverse kinematics & dynamics · trajectory planning · ROS 2 · Gazebo |
 | **Electronics & automation** | KiCad · ATmega / H-bridge drivers · PWM · FluidSIM pneumatics · LabVIEW |
-| **Business systems** | SAP (daily use) |
+| **Business systems** | SAP · Salesforce · MES |
 
 **Certifications:** MathWorks MATLAB Onramp · Simulink Onramp · Control Design Onramp
